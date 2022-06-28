@@ -2,8 +2,9 @@
 
 
 
-- 🔭 I’m currently working as a Web Developer Intern at Infovue Solutions.
-- 🌱 Also carrying out my MERN Stack internship at ShapeAI.
+- 🔭 Ex -Intern at Infovue Solutions.
+- 🌱 Ex -Research Intern at Samsung R & D
+- 🔭 I’m currently working as a Blockchain Intern at SARCI Automations
 - 👯 I’m looking out for internships and oppurtunities to work.
 - 🤔 Getting equipped with new technologies and updating myself with the latest technologies.
 - 💬 Ask me about Web Development and any programming related stuff, would be glad to help.
